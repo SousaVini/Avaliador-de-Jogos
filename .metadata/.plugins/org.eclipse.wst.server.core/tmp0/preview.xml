@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="teste" name="teste" path="C:/Users/vinis/OneDrive/Área de Trabalho/Códigos/2019/Programação para ambientes distribuidos/TrabalhoPAD - Final/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/teste" type="static"/>
+</server>
